@@ -1,4 +1,4 @@
-# ClipSage
+# Actor Reframe Engine
 
 **AI-powered horizontal-to-vertical video reframing** — turn landscape videos into TikTok, Reels, or Shorts format while keeping the main subject in frame.
 
