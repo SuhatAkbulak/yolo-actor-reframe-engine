@@ -1,0 +1,30 @@
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Analysis output
+video_analysis.json
+output_temp.mp4
+final_vertical_video_with_audio.mp4
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights (download at runtime)
+*.pt
+*.pth
+
+# OS
+.DS_Store
+Thumbs.db
